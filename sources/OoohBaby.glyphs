@@ -10,7 +10,8 @@ ABCDEFGHIJKLMNOPQRSTUVWXYZ,
 "¹",
 "µ",
 "32",
-"5/fraction 6\012"
+"5/fraction 6\012",
+"2/fraction 3µ"
 );
 classes = (
 {
@@ -45065,7 +45066,7 @@ unicode = 2202;
 },
 {
 glyphname = micro;
-lastChange = "2021-11-12 21:39:48 +0000";
+lastChange = "2021-11-12 21:46:24 +0000";
 layers = (
 {
 anchors = (
@@ -45149,16 +45150,15 @@ nodes = (
 "17 87 OFFCURVE",
 "14 70 OFFCURVE",
 "11 59 CURVE SMOOTH",
-"-27 -84 LINE",
-"-45 -158 LINE",
-"-47 -163 OFFCURVE",
-"-55 -178 OFFCURVE",
-"-70 -203 CURVE SMOOTH",
-"-83 -225 OFFCURVE",
-"-90 -238 OFFCURVE",
-"-90 -241 CURVE SMOOTH",
-"-90 -243 LINE SMOOTH",
-"-90 -251 OFFCURVE",
+"-23 -84 LINE",
+"-34 -137 OFFCURVE",
+"-42 -175 OFFCURVE",
+"-60 -206 CURVE SMOOTH",
+"-73 -228 OFFCURVE",
+"-80 -241 OFFCURVE",
+"-80 -244 CURVE SMOOTH",
+"-80 -246 LINE SMOOTH",
+"-80 -254 OFFCURVE",
 "-72 -261 OFFCURVE",
 "-64 -261 CURVE SMOOTH",
 "-43 -261 OFFCURVE",
