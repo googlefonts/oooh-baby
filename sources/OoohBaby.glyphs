@@ -11,7 +11,8 @@ ABCDEFGHIJKLMNOPQRSTUVWXYZ,
 "µ",
 "32",
 "5/fraction 6\012",
-"2/fraction 3µ"
+"2/fraction 3µ",
+"non/ellipsis/space nono"
 );
 classes = (
 {
@@ -32790,7 +32791,7 @@ unicode = 003B;
 },
 {
 glyphname = ellipsis;
-lastChange = "2021-11-06 03:09:09 +0000";
+lastChange = "2021-11-12 21:51:33 +0000";
 layers = (
 {
 background = {
@@ -32809,18 +32810,22 @@ name = period;
 components = (
 {
 name = period;
+transform = "{1, 0, 0, 1, 122, 0}";
 },
 {
 name = period;
+transform = "{1, 0, 0, 1, 244, 0}";
 },
 {
 name = period;
 }
 );
 layerId = "5D3CF454-A725-4551-B6FA-6F6FD8C18533";
-width = 313;
+width = 427;
 }
 );
+leftMetricsKey = period;
+rightMetricsKey = period;
 unicode = 2026;
 },
 {
